@@ -132,7 +132,12 @@ label {
     list-style-type:decimal-leading-zero;
 }
 
-.linkPortifolio{
-    padding: 260px;
-}
 
+.internet-logo{
+    display: block;
+    margin: 30px auto 60px auto;
+    width: 400px;
+    padding: 10px;
+    background-color:  rgb(222, 222, 222);
+    border-radius: 15px;
+}
